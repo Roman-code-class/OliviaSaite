@@ -1,9 +1,13 @@
 @import "tailwindcss";
-@import "./assets/fonts/Montserrat/stylesheetMontserrat.css";
-@import "./assets/fonts/inter/stylesheetInter.css";
-@import "./assets/fonts/Plateia/stylesheetPlatia.css";
+@import "./assets/fonts/fonts.css";
 
 @plugin "tailwindcss-animate";
+
+@theme {
+  --font-inter: "Inter", sans-serif;
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-plateia: "Plateia", sans-serif;
+}
 
 @custom-variant dark (&:is(.dark *));
 
