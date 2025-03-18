@@ -1,15 +1,9 @@
 function App() {
   return (
-    <div className="p-10 bg-gray-100 min-h-screen">
-      {/* <h1 className="text-4xl font-bold font-[var(--font-montserrat)] text-blue-600">
-        Привет, мир!
-      </h1>
-      <p className="text-lg font-[var(--font-inter)] text-gray-700">
-        Это текст с шрифтом Inter.
-      </p>
-      <p className="text-lg font-[var(--font-plateia)] text-gray-900">
-        А это текст с шрифтом Plateia.
-      </p> */}
+    <div className="">
+      <h1 className="">Привет, мир!</h1>
+      <p className="">Это текст с шрифтом Inter.</p>
+      <p className="">А это текст с шрифтом Plateia.</p>
     </div>
   );
 }
