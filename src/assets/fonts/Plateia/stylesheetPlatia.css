@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Plateia";
+  src: url("/src/assets/font/Plateia/Plateia.eot");
+  src: local("Plateia"), local("Plateia"),
+    url("/src/assets/font/Plateia/Plateia.eot?#iefix")
+      format("embedded-opentype"),
+    url("/src/assets/font/Plateia/Plateia.woff2") format("woff2"),
+    url("/src/assets/font/Plateia/Plateia.woff") format("woff"),
+    url("/src/assets/font/Plateia/Plateia.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}

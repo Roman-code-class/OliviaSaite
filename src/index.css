@@ -1,4 +1,7 @@
 @import "tailwindcss";
+@import "./assets/fonts/Montserrat/stylesheetMontserrat.css";
+@import "./assets/fonts/inter/stylesheetInter.css";
+@import "./assets/fonts/Plateia/stylesheetPlatia.css";
 
 @plugin "tailwindcss-animate";
 
